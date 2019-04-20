@@ -1,0 +1,37 @@
+# systemd-stretch
+
+![Pulls](https://img.shields.io/docker/pulls/=NAMESPACE=/systemd-stretch.svg)
+![Stars](https://img.shields.io/docker/stars/=NAMESPACE=/systemd-stretch.svg)
+
+The [Debian](https://debian.org/) [Stretch](https://wiki.debian.org/DebianStretch)
+[container image](https://hub.docker.com/r/=NAMESPACE=/systemd-stretch/) with few handy
+utilities, utf8 locales and `systemd`
+
+## Quick Usage
+
+Run prebuilt:
+
+    $ docker run --rm -ti --privileged =NAMESPACE=/systemd-stretch bash
+
+Or you can clone & build, run `bash` to explore:
+
+    $ git clone https://github.com/multicast/docker-systemd-stretch
+    $ cd docker-systemd-stretch
+    $ docker build -t systemd-stretch .
+    $ docker run --rm -ti --privileged systemd-stretch bash
+
+Since the image is intended to be used as base image, I suppose more common usage would be in your own `Dockerfile` in the form:
+
+    FROM =NAMESPACE=/systemd-stretch:latest
+    ...
+
+## Build-time options
+
+The same as the parent image [=NAMESPACE=/base-stretch](https://hub.docker.com/r/=NAMESPACE=/stretch/).
+
+## Run-time options
+
+The same as the parent image [=NAMESPACE=/base-stretch](https://hub.docker.com/r/=NAMESPACE=/stretch/).
+
+# Packages
+
