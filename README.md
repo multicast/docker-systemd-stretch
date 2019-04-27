@@ -43,7 +43,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  adduser                    3.115                          all          add and remove users and groups
     ii  apt                        1.4.9                          amd64        commandline package manager
     ii  apt-utils                  1.4.9                          amd64        package management related utility programs
-    ii  base-files                 9.9+deb9u8                     amd64        Debian base system miscellaneous files
+    ii  base-files                 9.9+deb9u9                     amd64        Debian base system miscellaneous files
     ii  base-passwd                3.5.43                         amd64        Debian base system master password and group files
     ii  bash                       4.4-5                          amd64        GNU Bourne Again SHell
     ii  bsdutils                   1:2.29.2-1+deb9u1              amd64        basic utilities from 4.4BSD-Lite
@@ -194,7 +194,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  tar                        1.29b-1.1                      amd64        GNU version of the tar archiving utility
     ii  tzdata                     2019a-0+deb9u1                 all          time zone and daylight-saving time data
     ii  ucf                        3.0036                         all          Update Configuration File(s): preserve user changes to config files
-    ii  unzip                      6.0-21                         amd64        De-archiver for .zip files
+    ii  unzip                      6.0-21+deb9u1                  amd64        De-archiver for .zip files
     ii  util-linux                 2.29.2-1+deb9u1                amd64        miscellaneous system utilities
     ii  whiptail                   0.52.19-1+b1                   amd64        Displays user-friendly dialog boxes from shell scripts
     ii  xtail                      2.1-5.1+b1                     amd64        like "tail -f", but works on truncated files, directories, more
