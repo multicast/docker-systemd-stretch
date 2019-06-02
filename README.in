@@ -7,6 +7,10 @@ The [Debian](https://debian.org/) [Stretch](https://wiki.debian.org/DebianStretc
 [container image](https://hub.docker.com/r/=NAMESPACE=/systemd-stretch/) with few handy
 utilities, utf8 locales and `systemd`
 
+This image is built daily and in case of any security update, the list of
+packages is updated, commited and this triggers update of docker-hub image
+and all dependant images.
+
 ## Quick Usage
 
 Run prebuilt:
