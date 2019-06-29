@@ -32,11 +32,11 @@ latest: build
 	  ( sed -e s/=NAMESPACE=/${NAMESPACE}/g README.in; \
 	    sed -e 's/^/    /' dpkg-new.txt ) > README.md; \
 	  git add README.md; \
-          git commit -nm "package updates on  ${VERSION}"; \
-          git push; \
-          cp dpkg-new.txt dpkg.txt; \
-        }
-        rm -f dpkg-new.txt
+	  git commit -nm "package updates on  ${VERSION}"; \
+	  git push; \
+	  cp dpkg-new.txt dpkg.txt; \
+	}
+	rm -f dpkg-new.txt
 
 .PHONY: push
 push: latest
