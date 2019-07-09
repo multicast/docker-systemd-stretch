@@ -57,7 +57,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  dash                       0.5.8-2.4                      amd64        POSIX-compliant shell
     ii  dbus                       1.10.28-0+deb9u1               amd64        simple interprocess messaging system (daemon and utilities)
     ii  debconf                    1.5.61                         all          Debian configuration management system
-    ii  debian-archive-keyring     2017.5                         all          GnuPG archive keys of the Debian archive
+    ii  debian-archive-keyring     2017.5+deb9u1                  all          GnuPG archive keys of the Debian archive
     ii  debianutils                4.8.1.1                        amd64        Miscellaneous utilities specific to Debian
     ii  di                         4.34-2+b1                      amd64        advanced df like disk information utility
     ii  diffutils                  1:3.5-3                        amd64        File comparison utilities
