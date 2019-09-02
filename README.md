@@ -128,7 +128,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libncursesw5:amd64         6.0+20161126-1+deb9u2          amd64        shared libraries for terminal handling (wide character support)
     ii  libnettle6:amd64           3.3-1+b2                       amd64        low level cryptographic library (symmetric and one-way cryptos)
     ii  libnewt0.52:amd64          0.52.19-1+b1                   amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
-    ii  libnghttp2-14:amd64        1.18.1-1                       amd64        library implementing HTTP/2 protocol (shared library)
+    ii  libnghttp2-14:amd64        1.18.1-1+deb9u1                amd64        library implementing HTTP/2 protocol (shared library)
     ii  libp11-kit0:amd64          0.23.3-2                       amd64        library for loading and coordinating access to PKCS#11 modules - runtime
     ii  libpam-modules:amd64       1.1.8-3.6                      amd64        Pluggable Authentication Modules for PAM
     ii  libpam-modules-bin         1.1.8-3.6                      amd64        Pluggable Authentication Modules for PAM - helper binaries
