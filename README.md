@@ -47,7 +47,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  adduser                    3.115                          all          add and remove users and groups
     ii  apt                        1.4.9                          amd64        commandline package manager
     ii  apt-utils                  1.4.9                          amd64        package management related utility programs
-    ii  base-files                 9.9+deb9u10                    amd64        Debian base system miscellaneous files
+    ii  base-files                 9.9+deb9u11                    amd64        Debian base system miscellaneous files
     ii  base-passwd                3.5.43                         amd64        Debian base system master password and group files
     ii  bash                       4.4-5                          amd64        GNU Bourne Again SHell
     ii  bsdutils                   1:2.29.2-1+deb9u1              amd64        basic utilities from 4.4BSD-Lite
