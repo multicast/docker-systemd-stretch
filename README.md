@@ -63,8 +63,8 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  diffutils                  1:3.5-3                        amd64        File comparison utilities
     ii  dmsetup                    2:1.02.137-2                   amd64        Linux Kernel Device Mapper userspace library
     ii  dpkg                       1.18.25                        amd64        Debian package management system
-    ii  e2fslibs:amd64             1.43.4-2                       amd64        ext2/ext3/ext4 file system libraries
-    ii  e2fsprogs                  1.43.4-2                       amd64        ext2/ext3/ext4 file system utilities
+    ii  e2fslibs:amd64             1.43.4-2+deb9u1                amd64        ext2/ext3/ext4 file system libraries
+    ii  e2fsprogs                  1.43.4-2+deb9u1                amd64        ext2/ext3/ext4 file system utilities
     ii  etckeeper                  1.18.5-1                       all          store /etc in git, mercurial, bzr or darcs
     ii  findutils                  4.6.0+git+20161106-2           amd64        utilities for finding files--find, xargs
     ii  gcc-6-base:amd64           6.3.0-18+deb9u1                amd64        GCC, the GNU Compiler Collection (base package)
@@ -91,7 +91,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libc6:amd64                2.24-11+deb9u4                 amd64        GNU C Library: Shared libraries
     ii  libcap-ng0:amd64           0.7.7-3+b1                     amd64        An alternate POSIX capabilities library
     ii  libcap2:amd64              1:2.25-1                       amd64        POSIX 1003.1e capabilities (library)
-    ii  libcomerr2:amd64           1.43.4-2                       amd64        common error description library
+    ii  libcomerr2:amd64           1.43.4-2+deb9u1                amd64        common error description library
     ii  libcryptsetup4:amd64       2:1.7.3-4                      amd64        disk encryption support - shared library
     ii  libcurl3:amd64             7.52.1-5+deb9u9                amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libcurl3-gnutls:amd64      7.52.1-5+deb9u9                amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
@@ -155,7 +155,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libslang2:amd64            2.3.1-5                        amd64        S-Lang programming library - runtime version
     ii  libsmartcols1:amd64        2.29.2-1+deb9u1                amd64        smart column output alignment library
     ii  libsqlite3-0:amd64         3.16.2-5+deb9u1                amd64        SQLite 3 shared library
-    ii  libss2:amd64               1.43.4-2                       amd64        command-line interface parsing library
+    ii  libss2:amd64               1.43.4-2+deb9u1                amd64        command-line interface parsing library
     ii  libssh2-1:amd64            1.7.0-1+deb9u1                 amd64        SSH2 client-side library
     ii  libssl1.0.2:amd64          1.0.2s-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libssl1.1:amd64            1.1.0k-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
