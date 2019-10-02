@@ -157,8 +157,8 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libsqlite3-0:amd64         3.16.2-5+deb9u1                amd64        SQLite 3 shared library
     ii  libss2:amd64               1.43.4-2+deb9u1                amd64        command-line interface parsing library
     ii  libssh2-1:amd64            1.7.0-1+deb9u1                 amd64        SSH2 client-side library
-    ii  libssl1.0.2:amd64          1.0.2s-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
-    ii  libssl1.1:amd64            1.1.0k-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
+    ii  libssl1.0.2:amd64          1.0.2t-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
+    ii  libssl1.1:amd64            1.1.0l-1~deb9u1                amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++6:amd64           6.3.0-18+deb9u1                amd64        GNU Standard C++ Library v3
     ii  libsystemd0:amd64          232-25+deb9u12                 amd64        systemd utility library
     ii  libtasn1-6:amd64           4.10-1.1+deb9u1                amd64        Manage ASN.1 structures (runtime)
@@ -178,7 +178,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  ncurses-base               6.0+20161126-1+deb9u2          all          basic terminal type definitions
     ii  ncurses-bin                6.0+20161126-1+deb9u2          amd64        terminal-related programs and man pages
     ii  net-tools                  1.60+git20161116.90da8a0-1     amd64        NET-3 networking toolkit
-    ii  openssl                    1.1.0k-1~deb9u1                amd64        Secure Sockets Layer toolkit - cryptographic utility
+    ii  openssl                    1.1.0l-1~deb9u1                amd64        Secure Sockets Layer toolkit - cryptographic utility
     ii  passwd                     1:4.4-4.1                      amd64        change and administer password and group data
     ii  perl                       5.24.1-3+deb9u5                amd64        Larry Wall's Practical Extraction and Report Language
     ii  perl-base                  5.24.1-3+deb9u5                amd64        minimal Perl system
