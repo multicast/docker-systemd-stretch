@@ -157,7 +157,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libsqlite3-0:amd64         3.16.2-5+deb9u1                   amd64        SQLite 3 shared library
     ii  libss2:amd64               1.43.4-2+deb9u1                   amd64        command-line interface parsing library
     ii  libssh2-1:amd64            1.7.0-1+deb9u1                    amd64        SSH2 client-side library
-    ii  libssl1.0.2:amd64          1.0.2t-1~deb9u1                   amd64        Secure Sockets Layer toolkit - shared libraries
+    ii  libssl1.0.2:amd64          1.0.2u-1~deb9u1                   amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libssl1.1:amd64            1.1.0l-1~deb9u1                   amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++6:amd64           6.3.0-18+deb9u1                   amd64        GNU Standard C++ Library v3
     ii  libsystemd0:amd64          232-25+deb9u12                    amd64        systemd utility library
