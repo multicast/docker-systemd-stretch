@@ -47,7 +47,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  adduser                    3.115                             all          add and remove users and groups
     ii  apt                        1.4.9                             amd64        commandline package manager
     ii  apt-utils                  1.4.9                             amd64        package management related utility programs
-    ii  base-files                 9.9+deb9u11                       amd64        Debian base system miscellaneous files
+    ii  base-files                 9.9+deb9u12                       amd64        Debian base system miscellaneous files
     ii  base-passwd                3.5.43                            amd64        Debian base system master password and group files
     ii  bash                       4.4-5                             amd64        GNU Bourne Again SHell
     ii  bsdutils                   1:2.29.2-1+deb9u1                 amd64        basic utilities from 4.4BSD-Lite
@@ -111,7 +111,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libgpg-error0:amd64        1.26-2                            amd64        library for common error values and messages in GnuPG components
     ii  libgssapi-krb5-2:amd64     1.15-1+deb9u1                     amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libhogweed4:amd64          3.3-1+b2                          amd64        low level cryptographic library (public-key cryptos)
-    ii  libidn11:amd64             1.33-1                            amd64        GNU Libidn library, implementation of IETF IDN specifications
+    ii  libidn11:amd64             1.33-1+deb9u1                     amd64        GNU Libidn library, implementation of IETF IDN specifications
     ii  libidn2-0:amd64            0.16-1+deb9u1                     amd64        Internationalized domain names (IDNA2008) library
     ii  libip4tc0:amd64            1.6.0+snapshot20161117-6          amd64        netfilter libip4tc library
     ii  libk5crypto3:amd64         1.15-1+deb9u1                     amd64        MIT Kerberos runtime libraries - Crypto Library
@@ -136,7 +136,7 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  libpam-systemd:amd64       232-25+deb9u12                    amd64        system and service manager - PAM module
     ii  libpam0g:amd64             1.1.8-3.6                         amd64        Pluggable Authentication Modules library
     ii  libpcre3:amd64             2:8.39-3                          amd64        Old Perl 5 Compatible Regular Expression Library - runtime files
-    ii  libperl5.24:amd64          5.24.1-3+deb9u5                   amd64        shared Perl library
+    ii  libperl5.24:amd64          5.24.1-3+deb9u6                   amd64        shared Perl library
     ii  libpopt0:amd64             1.16-10+b2                        amd64        lib for parsing cmdline parameters
     ii  libprocps6:amd64           2:3.3.12-3+deb9u1                 amd64        library for accessing process information from /proc
     ii  libpsl5:amd64              0.17.0-3                          amd64        Library for Public Suffix List (shared libraries)
@@ -180,9 +180,9 @@ The same as the parent image [mkovac/base-stretch](https://hub.docker.com/r/mkov
     ii  net-tools                  1.60+git20161116.90da8a0-1        amd64        NET-3 networking toolkit
     ii  openssl                    1.1.0l-1~deb9u1                   amd64        Secure Sockets Layer toolkit - cryptographic utility
     ii  passwd                     1:4.4-4.1                         amd64        change and administer password and group data
-    ii  perl                       5.24.1-3+deb9u5                   amd64        Larry Wall's Practical Extraction and Report Language
-    ii  perl-base                  5.24.1-3+deb9u5                   amd64        minimal Perl system
-    ii  perl-modules-5.24          5.24.1-3+deb9u5                   all          Core Perl modules
+    ii  perl                       5.24.1-3+deb9u6                   amd64        Larry Wall's Practical Extraction and Report Language
+    ii  perl-base                  5.24.1-3+deb9u6                   amd64        minimal Perl system
+    ii  perl-modules-5.24          5.24.1-3+deb9u6                   all          Core Perl modules
     ii  procps                     2:3.3.12-3+deb9u1                 amd64        /proc file system utilities
     ii  psmisc                     22.21-2.1+b2                      amd64        utilities that use the proc file system
     ii  python                     2.7.13-2                          amd64        interactive high-level object-oriented language (default version)
